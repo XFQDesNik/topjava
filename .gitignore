@@ -1,6 +1,7 @@
 .idea
+.idea_modules
+idea.sh
 out
 target
 *.iml
 log
-.patch
